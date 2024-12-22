@@ -1,1 +1,3 @@
-# CS405_Portfolio
+# CS405 Portfolio
+
+### Bryan Chan (2024)
